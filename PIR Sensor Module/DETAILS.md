@@ -1,6 +1,7 @@
 # PIR MOTION SENSOR (HC-SR501)
 
-![pic here]
+![Picture 1](https://github.com/HasnainRaza026/Sensors_And_Modules/assets/138324430/552b7c0a-2eaa-4dea-942f-09a1e971bb54)
+
 
 PIR sensor or Passive Infra-red Sensor is a motion sensor it detects the motion of any living 
 being (human, animal). Passive word indicates that PIR Sensor does not generate or radiate any 
@@ -9,15 +10,21 @@ infrared radiation emitted or reflected from living objects.
 The module consist a Pyroelectric sensor which generates energy when expose to heat. This 
 Pyroelectric sensor detects infra-red radiation emitted by the living body.
 
-![pic here]
+![p](https://github.com/HasnainRaza026/Sensors_And_Modules/assets/138324430/84ca42f7-d235-4c14-b675-db0aa57ca5f1)
+
+
 
 The module also consist a specially design cover called Fresnel Lens, which focuses the infra-red 
 signals onto the piroelectric sensor.
 
-![pic here] ![pic here]
+![Picture 3](https://github.com/HasnainRaza026/Sensors_And_Modules/assets/138324430/f8dd7485-97d8-4f78-a6d5-87e533ff902d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Picture 4](https://github.com/HasnainRaza026/Sensors_And_Modules/assets/138324430/38710223-ee4c-49ee-9656-b35c920dfd9f)
+
+
 
 ## PIN DAIGRAM & WORKING
-![pic here]
+![Picture 5](https://github.com/HasnainRaza026/Sensors_And_Modules/assets/138324430/75a36a09-35f3-4efe-a3a5-4acbc6f2475d)
+
 
 + It has 3 pin GND, VCC for powering the module and an OUT pin which gives logic HIGH
 (1) when an object is detected, (connected with digital pin of Arduino).
