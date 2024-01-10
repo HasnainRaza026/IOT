@@ -43,7 +43,7 @@ work properly
 ## SPECIFICATIONS
 + Detection range: up to 7 meters
 + Detection angle: 110 degrees
-+ Operating voltage: DC 4.5V - 12V DC
++ Operating voltage: 5V - 20V
 + Output signal: 3.3V digital output
 + Delay time: adjustable from 0.3 seconds to 5 minutes
 + Operating temperature: -15°C to +70°C
@@ -54,3 +54,9 @@ work properly
 + Thermostat and HVAC system
 + Smart home and IOT
 + Cameras and surveillance system
+
+## PIR MOTION SENSOR SERIES
+
+
+## DATA SHEET
+- [Documentation](https://github.com/HasnainRaza026/IOT/blob/main/PIR%20Sensor%20Module/Data%20Sheet.pdf)
