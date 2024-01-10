@@ -56,6 +56,7 @@ work properly
 + Cameras and surveillance system
 
 ## PIR MOTION SENSOR SERIES
+![Screenshot (455)](https://github.com/HasnainRaza026/IOT/assets/138324430/19883270-165e-428b-95be-13e3670d670f)
 
 
 ## DATA SHEET
