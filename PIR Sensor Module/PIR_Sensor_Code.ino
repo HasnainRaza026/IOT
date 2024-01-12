@@ -1,3 +1,4 @@
+// Set the Pir-Sensor pin to the pin 2 of Arduino
 byte PIR_SENSOR_PIN = 2;
 void setup () {
   Serial.begin(115200);
