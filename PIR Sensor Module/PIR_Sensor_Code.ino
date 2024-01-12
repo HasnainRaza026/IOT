@@ -1,7 +1,9 @@
 // Set the Pir-Sensor pin to the pin 2 of Arduino
 byte PIR_SENSOR_PIN = 2;
 void setup () {
+  // Port rate of 115200
   Serial.begin(115200);
+  // Set pin 2 as input pin to receive data
   pinMode(PIR_SENSOR_PIN, INPUT);
 }
 void loop() {
