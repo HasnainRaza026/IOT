@@ -15,5 +15,6 @@ void loop() {
   } else if (data == 0) {
     Serial.println("Motion not detected");
   }
+  // Delay of 1 second
   delay(1000);
 }
