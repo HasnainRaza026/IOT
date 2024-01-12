@@ -7,6 +7,7 @@ void setup () {
   pinMode(PIR_SENSOR_PIN, INPUT);
 }
 void loop() {
+  // Read the Pir-Sensor Data
   byte data = digitalRead(PIR_SENSOR_PIN);  // Read motion sensor
   Serial.println("\ndata = " + String(data));
   if (data == 1) {
